@@ -1,6 +1,6 @@
 # Larner.ConfigManager
 
-A PowerShell wrapper around the ConfigManager Module to enable better automation
+A PowerShell wrapper around the ConfigManager Module to enable better automation. I used this to automate almost all the application packaging & lifecycle management work at a company.
 
 ## Key Functions
 
